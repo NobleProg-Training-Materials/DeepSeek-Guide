@@ -10,4 +10,4 @@
 ## DeepSeek resources
 [DeepSeek website](https://www.deepseek.com)
 
-[DeeepSeek Training | NobleProg](https://www.nobleprog.com/deepseek-training#choose-country-region)
+[DeeepSeek Training | NobleProg](https://www.nobleprog.com/deepseek-training)
